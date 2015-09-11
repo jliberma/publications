@@ -1,5 +1,5 @@
-# publications[doc]
-[doc]
+# publications
+
 1. [Deploying Red Hat EAP 6 Microservices on High Availability Red Hat Enterprise Linux OpenStack Platform 7 with RHEL-OSP director](https://access.redhat.com/node/1610453/40)[doc](ra_rhelosp7_FINAL.pdf)
 1. [Deploying OpenStack Sahara on Red Hat Enterprise Linux OpenStack Platform 6](https://access.redhat.com/sites/default/files/attachments/sahara_osp6_final_04282015.pdf)[doc](sahara_osp6_final_04282015.pdf)
 1. [Deploying Sahara (Analytics-as-a-Service) on Red Hat Enterprise Linux OpenStack Platform 5](http://www.redhat.com/en/files/resources/en-rhel-deploying-sahara-100914.pdf)[doc](en-rhel-deploying-sahara-100914.pdf)
