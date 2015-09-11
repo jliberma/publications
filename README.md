@@ -10,7 +10,7 @@
 1. [Designing Research Computing Systems for the CERN/Atlas Program](http://www.dell.com/Downloads/Global/Power/ps4q09-20100175-Stemple.pdf)
 1. [Evaluating Third-Generation AMD Opteron Processors for HPC Workloads](http://www.dell.com/Downloads/Global/Power/ps4q08-20080427-Liberman.pdf)
 1. [Weather Research and Forecast (WRF) Model  Performance and Profiling Analysis on Advanced Multi-core HPC Clusters](http://www.hpcadvisorycouncil.com/pdf/2009%20LCI%20International%20-%20WRF%20Model.pdf)
-1. [Scalable Storage for High Performance Computing: Red Hat® Global File System on Dell EqualLogic](http://www.dell.com/downloads/global/solutions/dell_equal_logic.pdf))
+1. [Scalable Storage for High Performance Computing: Red Hat® Global File System on Dell EqualLogic](http://www.dell.com/downloads/global/solutions/dell_equal_logic.pdf)
 1. [Architecting iSCSI-based I/O systems for high performance computing clusters](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5289138&url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D5289138)
 1. [Integrating hardware management with cluster administration toolkits](http://dl.acm.org/citation.cfm?id=1545007.1545090&coll=DL&dl=GUIDE)
 1. [Integrating EMC MirrorView with VMware ESX Server for Business Continuity and Disaster Recovery](http://www.dell.com/downloads/global/power/ps4q06-20060374-Liberman-OE.pdf)
